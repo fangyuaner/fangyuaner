@@ -17,4 +17,6 @@ sudo apt-get install openjdk-default
 * 先设置apt软件原仓库
 * aaaaaaaaaaaaa
 * bbbbbbbbbbbb
+* cccccccccccccccc
+* ddddddddddddd
 
