@@ -6,10 +6,28 @@
     <description>Recent content on 上仙的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2020 22:43:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 23:22:34 +0800</lastBuildDate>
     
 	<atom:link href="https://shangxian.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SecondHttp</title>
+      <link>https://shangxian.xyz/post/secondhttp/</link>
+      <pubDate>Thu, 29 Oct 2020 23:22:34 +0800</pubDate>
+      
+      <guid>https://shangxian.xyz/post/secondhttp/</guid>
+      <description>再读HTTP HTTP报文 报文分两部分：报文首部 + 报文主体 1.请求报文 请求行 + 首部字段 + 空行 请求行：请求方法 + URL + HTTP版本 2.响应报文 状态</description>
+    </item>
+    
+    <item>
+      <title>HTTP First</title>
+      <link>https://shangxian.xyz/post/http-first/</link>
+      <pubDate>Wed, 28 Oct 2020 23:33:49 +0800</pubDate>
+      
+      <guid>https://shangxian.xyz/post/http-first/</guid>
+      <description>初识HTTP HTTP是TCP/IP协议族的一个成员。 TCP/IP 内容 应用层 -应用层决定了向用户提供应用服务时通信的活动。 传输层 传输层对接应用层，提供处</description>
+    </item>
     
     <item>
       <title>linux下java环境搭建</title>
@@ -22,10 +40,10 @@
     
     <item>
       <title>初识MarkDown</title>
-      <link>https://shangxian.xyz/post/aa/</link>
+      <link>https://shangxian.xyz/post/markdown-first/</link>
       <pubDate>Mon, 26 Oct 2020 22:28:48 +0800</pubDate>
       
-      <guid>https://shangxian.xyz/post/aa/</guid>
+      <guid>https://shangxian.xyz/post/markdown-first/</guid>
       <description>初学Markown 标题 主要使用“#”来进行分辨不同的标题，几个“#”就是几级标题。 注意点是：每个符号后需要加一个空格才能生效。 段落 段落没有特</description>
     </item>
     

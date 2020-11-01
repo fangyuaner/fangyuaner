@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shangxian.xyz/post/</loc>
+    <lastmod>2020-10-29T23:22:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shangxian.xyz/post/secondhttp/</loc>
+    <lastmod>2020-10-29T23:22:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shangxian.xyz/</loc>
+    <lastmod>2020-10-29T23:22:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shangxian.xyz/post/http-first/</loc>
+    <lastmod>2020-10-28T23:33:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shangxian.xyz/post/how-to-install-java-in-linux/</loc>
     <lastmod>2020-10-26T22:43:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9,21 +37,7 @@
   </url>
   
   <url>
-    <loc>https://shangxian.xyz/post/</loc>
-    <lastmod>2020-10-26T22:43:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shangxian.xyz/</loc>
-    <lastmod>2020-10-26T22:43:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shangxian.xyz/post/aa/</loc>
+    <loc>https://shangxian.xyz/post/markdown-first/</loc>
     <lastmod>2020-10-26T22:28:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
