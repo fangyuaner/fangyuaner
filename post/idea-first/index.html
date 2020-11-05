@@ -49,7 +49,7 @@
 <meta itemprop="description" content="IDEA中建一个Springoot项目并运行访问 项目的创建 通过网页https://start.spring.io/创建好项目，解压到本地后导">
 <meta itemprop="datePublished" content="2020-11-02T23:18:48&#43;08:00" />
 <meta itemprop="dateModified" content="2020-11-02T23:18:48&#43;08:00" />
-<meta itemprop="wordCount" content="694">
+<meta itemprop="wordCount" content="836">
 
 
 
@@ -191,14 +191,33 @@ ModelAndView的参数有两个(viewName，params)</li>
 <blockquote>
 <p>Maven的作用</p>
 </blockquote>
+<ol>
+<li>管理jar包</li>
+<li>管理jar包之间的依赖</li>
+<li>将项目模块儿化</li>
+<li>能够对项目进行编译、打包等</li>
+</ol>
 <blockquote>
 <p>IDEA项目创建好后，这几个文件是有什么用途？
-mvenw  、 mvnw.cmd   .mvn</p>
+mvnw：记录所需要的jar包
+mvnw.cmd：用于windows运行maven
+.mvn：存放mvnw中记录的jar包</p>
 </blockquote>
-<blockquote>
-<p>maven的那些方法有什么用途？</p>
-</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">现在的阿里云镜像仓库中的地址不是最新的了，已经不使用http了更换https
 
+在IDEA中需要进行一个配置以避免进行SSL验证
+
+</code></pre></td></tr></table>
+</div>
+</div>
     </div>
 
     <div class="post-copyright">
