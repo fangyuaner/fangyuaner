@@ -38,9 +38,19 @@ draft: false
 ## 今日份的注意点
 
 > Maven的作用
+1. 管理jar包
+2. 管理jar包之间的依赖
+3. 将项目模块儿化
+4. 能够对项目进行编译、打包等
 
 > IDEA项目创建好后，这几个文件是有什么用途？
-mvenw  、 mvnw.cmd   .mvn
+mvnw：记录所需要的jar包
+mvnw.cmd：用于windows运行maven
+.mvn：存放mvnw中记录的jar包
 
-> maven的那些方法有什么用途？
+```
+现在的阿里云镜像仓库中的地址不是最新的了，已经不使用http了更换https
 
+在IDEA中需要进行一个配置以避免进行SSL验证
+
+```
