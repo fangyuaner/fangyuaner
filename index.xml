@@ -6,10 +6,19 @@
     <description>Recent content on 上仙的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2020 23:02:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2020 18:20:41 +0800</lastBuildDate>
     
 	<atom:link href="https://shangxian.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Encryption</title>
+      <link>https://shangxian.xyz/post/encryption/</link>
+      <pubDate>Sat, 07 Nov 2020 18:20:41 +0800</pubDate>
+      
+      <guid>https://shangxian.xyz/post/encryption/</guid>
+      <description>加密：对称、非对称、摘要（MD5) 对称 就是客户端与服务端之间通信的内容使用同一个密钥进行加密，解密； 但是服务端的密钥一般都能获取到，即便客户</description>
+    </item>
     
     <item>
       <title>First Http</title>

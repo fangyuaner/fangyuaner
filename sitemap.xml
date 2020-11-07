@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shangxian.xyz/post/first-http/</loc>
-    <lastmod>2020-11-03T23:02:21+08:00</lastmod>
+    <loc>https://shangxian.xyz/post/encryption/</loc>
+    <lastmod>2020-11-07T18:20:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shangxian.xyz/post/</loc>
-    <lastmod>2020-11-03T23:02:21+08:00</lastmod>
+    <lastmod>2020-11-07T18:20:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shangxian.xyz/</loc>
+    <lastmod>2020-11-07T18:20:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shangxian.xyz/post/first-http/</loc>
     <lastmod>2020-11-03T23:02:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
